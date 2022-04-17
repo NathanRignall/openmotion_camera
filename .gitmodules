@@ -1,0 +1,3 @@
+[submodule "openmotion_led_hat_control"]
+	path = openmotion_led_hat_control
+	url = https://github.com/NathanRignall/openmotion_led_hat_control
