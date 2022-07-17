@@ -4,3 +4,6 @@
 [submodule "openmotion_network"]
 	path = openmotion_network
 	url = https://github.com/NathanRignall/openmotion_network
+[submodule "openmotion_libcamera"]
+	path = openmotion_libcamera
+	url = https://github.com/NathanRignall/openmotion_libcamera
